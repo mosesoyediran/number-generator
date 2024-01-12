@@ -18,7 +18,7 @@ To use the `Number_generator` class, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/number-generator.git
+   git clone https://github.com/mosesoyediran/number-generator.git
    Navigate to the project directory:
    bash
    Copy code

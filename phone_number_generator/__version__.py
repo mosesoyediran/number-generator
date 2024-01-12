@@ -1,6 +1,6 @@
 __title__ = 'phone_number_generator'
 __description__ = 'All countries phone number generator.'
-__url__ = ''
+__url__ = 'https://github.com/mosesoyediran/number-generator.git'
 __version__ = '0.1.0'
 __author__ = 'Moses D'
 __author_email__ = 'mosesoyedran01@gmail.com'

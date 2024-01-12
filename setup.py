@@ -22,7 +22,7 @@ setup(name=about['__title__'],
       long_description_content_type='text/markdown',
       classifiers=[
           'Licence :: OSI APPROVED :: MIT License',
-          'Programming Language :: Python :: 3.9',
+          'Programming Language :: Python :: 3.12',
 ],
     keywords='All countries phone number generator',
     url=about['__url__'],
