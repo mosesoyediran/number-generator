@@ -3,11 +3,6 @@ from random import randint
 from world_zone import world_zone
 
 
-from random import randint
-# World_zone is a data structure containing country information
-from world_zone import world_zone
-
-
 class Number_generator:
     """
     A class for generating random phone numbers with optional country codes.
