@@ -87,8 +87,3 @@ class Number_generator:
         except Exception as e:
             print(f"Error saving phone numbers to {filename}: {e}")
             return False
-
-
-number = Number_generator(phone_ini=202, country='Canada')
-
-print(number.save_to_text_file(15, 'filename.word'))
