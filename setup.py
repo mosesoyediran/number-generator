@@ -11,7 +11,7 @@ def readme():
 
 
 about = {}
-with open(os.path.join(here, 'phone_number_generator', '__version__.py', 'r')) as f:
+with open(os.path.join(here, 'phone_number_generator', '__version__.py'), 'r') as f:
     exec(f.read(), about)
 
 setup(name=about['__title__'],
@@ -21,7 +21,7 @@ setup(name=about['__title__'],
       long_description=readme(),
       long_description_content_type='text/markdown',
       classifiers=[
-          'Licence :: OSI APPROVED :: MIT License',
+          'License :: OSI Approved :: MIT License',
           'Programming Language :: Python :: 3.12',
 ],
     keywords='All countries phone number generator',
